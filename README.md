@@ -1,7 +1,10 @@
 # Generative Perturbation Analysis for Probabilistic Black-Box Anomaly Attribution
 
-This repository maintains the Python source code for Tsuyoshi Ide and Naoki Abe, "Generative Perturbation Analysis for Probabilistic Black-Box
-Anomaly Attribution" (KDD 23). We will include our reference implementation of GPA (generative perturbation analysis) and its notebook as well as baseline algorithms including:
+This repository maintains the Python source code for GPA (generative perturbation analysis), first proposed in
+> Tsuyoshi Ide and Naoki Abe, "**Generative Perturbation Analysis for Probabilistic Black-Box
+Anomaly Attribution**" (KDD 23). 
+
+We will include our reference implementation of GPA and its notebook as well as baseline algorithms including:
 - LIME
 - Shapley values
 - Integrated gradient
