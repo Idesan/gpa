@@ -11,7 +11,9 @@ We will include our reference implementation of GPA and its notebook as well as 
 - Expected integrated gradient
 - Likelihood compensation
 
-The initial release data is planned to be August 6, 2023 (the first day of KDD). Thank you for your patience!
+The initial release date is planned to be August 6, 2023 (the first day of KDD). Thank you for your patience!
 
+
+05/28/2023
 Tsuyoshi Ide (井手 剛)
 tide@us.ibm.com 
