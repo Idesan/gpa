@@ -19,7 +19,7 @@ This repository provides a reference implementation of **GPA (generative perturb
 
 As the title of the paper suggests, GPA is for *probabilistic* anomaly attribution. The **[demo notebook](GPA_Introduction.ipynb)** provides a readable introduction to the algorithm and an endo-to-end demo using a publicly available dataset. Use `gpa_map(X, y, model)` for the expected attribution score and `gpa_dist(delta_MAP,X,y,model)` for its distribution. 
 
-In addition to the proposed GPA algorithm, we have implemented most of the existing black- or white-box (non-probabilistic) attribution methods for comparison purposes:
+In addition to the proposed GPA algorithm, I have implemented most of the existing black- or white-box (non-probabilistic) attribution methods for comparison purposes:
 
 1. `lib.gpa_map_gaussian()`: Likelihood compensation (LC) [Ide et al. AAAI 21]
 1. `util.LIME_deviation()`: LIME [Ribeiro et al. KDD 16]
