@@ -29,4 +29,5 @@ In addition to the proposed GPA algorithm, I have implemented most of the existi
 1. Z-score: $Z_i = (x_i^t - m_i)/\sigma_i$
 
 
-
+---
+[**日本語版はこちら**](GPA_Introduction_JPN.ipynb)
