@@ -103,9 +103,6 @@ def IG_vec_i(idx, xtest,xbase,model,eta,N_alpha =100,N_grad=10,seed=0,
 
     '''
 
-
-    import numpy as np
-
     x_test = np.array(xtest).astype(float).ravel()
     x_base = np.array(xbase).astype(float).ravel()
 
