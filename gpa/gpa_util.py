@@ -258,7 +258,7 @@ def EIG_vec_i(idx, x_test, model, Xtrain, N_alpha =100, N_grad=10,
     #----- The leftmost term except for the (-1/2) prefactor. 
     # Does depend on x_base.
     # (x^t-x_base) term
-    dx = (x_test[idx] - X_base[:,idx]).reshape(-1,1) # 縦ベクトル
+    dx = (x_test[idx] - X_base[:,idx]).reshape(-1,1) # Column vector
     term0_A = np.tile(dx,[NN_grad,1]).flatten(order='F')/N_base
 
     # Gradient term
