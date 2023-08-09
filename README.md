@@ -7,13 +7,13 @@ August 3, 2023
 
 This repository provides a reference implementation of **GPA (generative perturbation analysis)** by the authors, based on a paper presented at KDD 2023:
 
-> Tsuyoshi Id&#233;, Naoki Abe, ``*Generative Perturbation Analysis for Probabilistic Black-Box Anomaly Attribution*,'' Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2023, August 6-10, 2023, Long Beach, California, USA), pp.TBD ([paper](https://ide-research.net/papers/2023_KDD_Ide.pdf), [slides](https://ide-research.net/papers/2023_KDD_Ide_GPA_presentation.pdf), [poster](https://ide-research.net/papers/2023_KDD_Ide_poster.pdf)). 
+> Tsuyoshi Id&#233;, Naoki Abe, ``*Generative Perturbation Analysis for Probabilistic Black-Box Anomaly Attribution*,'' Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2023, August 6-10, 2023, Long Beach, California, USA), pp.845-856 ([paper](https://ide-research.net/papers/2023_KDD_Ide.pdf), [slides](https://ide-research.net/papers/2023_KDD_Ide_GPA_presentation.pdf), [poster](https://ide-research.net/papers/2023_KDD_Ide_poster.pdf)). 
 
 > @inproceedings{Ide23KDD,
 >  title={Generative Perturbation Analysis for Probabilistic Black-Box Anomaly Attribution},
 >  author={Tsuyoshi Id\'{e} and Naoki Abe},
 >  booktitle={Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 23)},
->  pages={TBD},
+>  pages={845--856},
 >  year={2023}
 >}
 
