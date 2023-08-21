@@ -3,7 +3,7 @@
 Tsuyoshi Ide (井手 剛), 
 tide@us.ibm.com, IBM Thomas J. Watson Research Center.
 
-August 3, 2023
+August 3, 2023 (**beta release**)
 
 This repository provides a reference implementation of **GPA (generative perturbation analysis)** by the authors, based on a paper presented at KDD 2023:
 
